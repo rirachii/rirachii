@@ -80,7 +80,7 @@ function Content() {
                     <h2 className='center san project__tit'>Current Project for REU</h2>
                 </a>
                 <StaticImage 
-                    src= "../images/stream.jpg"
+                    src= "../images/stream.JPG"
                     alt="encoder project logo" 
                 /> 
                 <div className='project__des'>
@@ -122,7 +122,7 @@ function Content() {
                       <h2 className='center san project__tit'>Sharable Grocery List</h2>
                 </a>
               <StaticImage 
-                    src= "../images/encoder1.jpg"
+                    src= "../images/encoder1.JPG"
                     alt="encoder project logo" 
                   /> 
                 <div className='project__des'>
@@ -163,7 +163,7 @@ function Content() {
                 <h2 className='center san project__tit'>Magic Painting Board</h2>
             {/* </a> */}
               <StaticImage 
-                    src= "../images/mpb1.jpg"
+                    src= "../images/mpb1.JPG"
                     alt="encoder project logo" 
                   /> 
                 <div className='project__des'>
@@ -208,7 +208,7 @@ function Content() {
                     <h2 className='center san project__tit'>NSF Research Grant Rankings</h2>
                 </a>
                 <StaticImage 
-                    src= "../images/nsf.jpg"
+                    src= "../images/nsf.JPG"
                     alt="encoder project logo" 
                 /> 
                 <div className='project__des'>
@@ -292,7 +292,9 @@ function Content() {
 
         <section id='contact'>
             <h1 className='san yellow'>04. Hello there,</h1>
-            <p>I am currently a third year Computer Science major at University at Buffalo.</p>
+              <p>I am currently a third year Computer Science major at University at Buffalo.</p>
+              <p>In my free time, I'm interested in following the developments of science. I also play a lot of video games.</p>
+              <p>If you're looking to connect to talk about experiences, education, connect about an opportunity, feel free to send me an email or connect on linkedin!</p>
         </section>
 
         <div id='social' className='footer__icons' >

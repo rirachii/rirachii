@@ -1,13 +1,12 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
 <h1 align="center">
-  Gatsby minimal starter
+  Hello, I'm Michelle Weng 🦆
 </h1>
 
-## 🚀 Quick start
+## 🚀 Tools
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-blue)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![Scala](https://img.shields.io/badge/Scala-Proficient-yellowgreen)
+![C](https://img.shields.io/badge/C-Proficient-yellowgreen)
 
 1.  **Create a Gatsby site.**
 
