@@ -122,7 +122,7 @@ function Content() {
                       <h2 className='center san project__tit'>Sharable Grocery List</h2>
                 </a>
               <StaticImage 
-                    src= "../images/encoder1.JPG"
+                    src= "../images/encoder1.jpg"
                     alt="encoder project logo" 
                   /> 
                 <div className='project__des'>
