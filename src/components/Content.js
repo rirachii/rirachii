@@ -14,7 +14,7 @@ function Content() {
             <h1 className='intro__statement'>I enjoy making web apps.</h1>
             {/* <h1 className='intro__statement'>and photography.</h1>  */}
             {/* <h1>baking banana bread, traveling, movie nights, reading manga</h1> */}
-            <p className='intro__mini'>I’m a student studying computer science with a minor in mathematics.</p>
+            <p className='intro__mini'>I’m a student studying computer science with a passion for Data.</p>
             <p className='intro__mini'>Currently looking for co-op and internship oppertunities as an software engineer.</p>
         </section>    
 
@@ -86,8 +86,8 @@ function Content() {
                 <div className='project__des'>
                     {/* <h2 className='center san'>Sharable Grocery List</h2> */}
                     <ul>
-                        <li>Web app for sharable grocery list and discounts. </li>
-                        <li>Create a lists, then add your family or friends to update or add items in real time.</li>
+                        <li>Web app to monitor 3D printers in real time. </li>
+                        {/* <li>Create a lists, then add your family or friends to update or add items in real time.</li> */}
                     </ul>
                     <p className='center san'>Python(Flask), ReactJS, AWS(DynamoDB, Cognito, Lambda Functions)</p>
                     <br />
@@ -271,8 +271,9 @@ function Content() {
             <h2>Courses:</h2>
             <ul>
                 <h3>Fall 2022 Courses</h3>
-                <li><Link className='edu__link' to="https://catalog.buffalo.edu/courses/?abbr=CSE&num=560">Data Models and Query Languages (SQL)</Link></li>
                 <li><Link className='edu__link'to="https://catalog.buffalo.edu/courses/?abbr=EAS&num=345">Intro to Data Science</Link></li>
+                <li><Link className='edu__link' to="https://catalog.buffalo.edu/courses/?abbr=CSE&num=560">Data Models and Query Languages (SQL)</Link></li>
+                <li><Link className='edu__link'to="https://catalog.buffalo.edu/courses/?abbr=CSE&num=487">Data Intensive Computing</Link></li>
                 <li><Link className='edu__link'to="https://catalog.buffalo.edu/courses/?abbr=STA&num=301">Probability</Link></li>
                 <br />
                 <h3>Previous Courses</h3>
