@@ -155,3 +155,9 @@
 
 
 })(jQuery);
+
+new Kursor({
+    el: '.myBox',
+    removeDefaultCursor: true,
+    type: 1 /* 1 | 2 | 3 | 4 | 5 */
+});
