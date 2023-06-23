@@ -1,111 +1,21 @@
-# Kross By Themefisher
+<h2 align="center">
+  Welcome to Michelle Weng's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-Kross is a creative, sleek and modern personal portfolio website template with a gorgeous appearance. It appears with an amazing, stunning graphics.
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D21B&width=435&lines=Full+stack+web+app+developer;Love+learning+new+technologies" alt="Typing SVG" /></a>
+</h2>
 
-<!-- demo -->
-## Example Site
+<h3 align="center">Software developer from NYC with a passion for data and cloud technologies.</h3>
 
-| [![](screenshots/homepage.png)](https://demo.themefisher.com/kross/) | [![](screenshots/about.png)](https://demo.themefisher.com/kross/about.html) | [![](screenshots/portfolio.png)](https://demo.themefisher.com/kross/portfolio.html) |
-|:---:|:---:|:---:|
-| **Home**  | **About**  | **Portfolio** |
-| [![](screenshots/blog.png)](https://demo.themefisher.com/kross/blog.html) | [![](screenshots/blog-details.png)](https://demo.themefisher.com/kross/blog-single.html) | [![](screenshots/contact.png)](https://demo.themefisher.com/kross/contact.html) |
-| **Blog** | **Blog Details** | **Contact** |
+---
 
-👉🏻[View Live Preview](https://demo.themefisher.com/kross/)
 
-<!-- pages -->
-## Pages
-
-* **Homepage**
-* **About**
-* **Portfolio**
-* **Blog**
-* **Blog Details**
-* **Contact**
-
-<!-- download -->
-## Download And installation
-
-Download this template from [Github](https://github.com/themefisher/kross/archive/main.zip)
-
-<!-- installation -->
-### Basic Usages
-
-After downloading the template, you can simply edit the HTML and CSS files from the `theme` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
-
-### Advanced Usage
-
-For advanced usage, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
-
-#### Install prerequisites (once for a machine)
-
-* **Node Installation:** [Install node js](https://nodejs.org/en/download/)
-* **Gulp Installation:** Install gulp globally from your terminal
-
-```
-npm install --global gulp-cli
-```
-
-Or visit the original [Gulp docs](https://gulpjs.com/docs/en/getting-started/quick-start)
-
-#### Local setup
-
-After successfully installing those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
-
-* Install dependencies
-
-```
-npm install
-```
-
-* Run locally
-
-```
-npm run dev
-```
-
-After that, it will open up a preview of the template in your default browser, watch for changes to source files, and live reload the browser when changes are saved.
-
-#### Production Build
-
-After finishing all the customization, you can create a production build by running this command.
-
-```
-npm run build
-```
-
-Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
-
-👉🏻 [visit documentation](https://docs.themefisher.com/kross/)
-
-<!-- reporting issue -->
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Kross Template. Please Search [existing issues](https://github.com/themefisher/Kross-Creative-Portfolio-Template/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Kross-Creative-Portfolio-Template/issues).
-
-<!-- support -->
-## Technical Support or Questions (Paid)
-
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
-
-<!-- licence -->
-## License
-
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
-
-**Code License:** Released under the [MIT](https://github.com/themefisher/constra/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
-
-<!-- resources -->
-## Resources
-
-Some third-party plugins that we used to build this template. Please check their license.
-
-* **Bootstrap v4.5**: <https://getbootstrap.com/docs/4.5/getting-started/introduction/>
-* **Jquery v3.5.1**: <https://jquery.com/download/>
-* **Google Fonts**: <http://fonts.google.com/>
-* **Themify Icons**: <https://themify.me/themify-icons/>
-* **Slick**: <https://kenwheeler.github.io/slick/>
-* **Shuffle**: <https://vestride.github.io/Shuffle/>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=rirachii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=rirachii&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rirachii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ -->
+---
+<!-- [![](https://visitcount.itsvg.in/api?id=rirachii&icon=0&color=0)](https://visitcount.itsvg.in) -->
