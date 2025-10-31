@@ -5,7 +5,7 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D21B&width=435&lines=Full+stack+web+app+developer;Love+learning+new+technologies" alt="Typing SVG" /></a>
 </h2>
 
-<h3 align="center">Software developer from NYC with a passion for data and cloud technologies.</h3>
+<h3 align="center">Software developer from NYC with a passion for mobile development.</h3>
 
 ---
 
