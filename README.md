@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/wengmichelle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/mykov20" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Passionate mobile developer, creating robust and scalable react native applications. Skilled in react native and google cloud, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">Passionate full stack developer, creating robust and scalable applications. Skilled in react, react native, and python, with a keen eye for user experience and performance optimization.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
