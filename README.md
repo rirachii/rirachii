@@ -17,7 +17,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Pokemon tcg identifier**
+- 💼 I'm currently working on: **Duolingo for Communication**
 - 🌱 I'm currently learning: **React Native VisionCamera **
 - 💬 Ask me about: **TS, React Native, Firebase, and RESTful APIs**
 - ⚡ Fun fact: **Ripsticking 😎**
